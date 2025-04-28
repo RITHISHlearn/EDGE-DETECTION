@@ -25,8 +25,8 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ## Prorgram :
 
 ```
-DEVELOPED BY : ALIYA SHEEMA
-REGISTER NUMBER : 212223230011
+DEVELOPED BY : Rithish P
+REGISTER NUMBER : 212223230173
 ```
 
 ```
